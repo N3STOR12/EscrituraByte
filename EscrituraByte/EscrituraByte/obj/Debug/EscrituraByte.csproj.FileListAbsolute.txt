@@ -1,0 +1,8 @@
+C:\Users\Hp\Desktop\Clases\P.O.O\Practricas\EscrituraByte\EscrituraByte\bin\Debug\EscrituraByte.exe.config
+C:\Users\Hp\Desktop\Clases\P.O.O\Practricas\EscrituraByte\EscrituraByte\bin\Debug\EscrituraByte.exe
+C:\Users\Hp\Desktop\Clases\P.O.O\Practricas\EscrituraByte\EscrituraByte\bin\Debug\EscrituraByte.pdb
+C:\Users\Hp\Desktop\Clases\P.O.O\Practricas\EscrituraByte\EscrituraByte\obj\Debug\EscrituraByte.csproj.AssemblyReference.cache
+C:\Users\Hp\Desktop\Clases\P.O.O\Practricas\EscrituraByte\EscrituraByte\obj\Debug\EscrituraByte.csproj.SuggestedBindingRedirects.cache
+C:\Users\Hp\Desktop\Clases\P.O.O\Practricas\EscrituraByte\EscrituraByte\obj\Debug\EscrituraByte.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Desktop\Clases\P.O.O\Practricas\EscrituraByte\EscrituraByte\obj\Debug\EscrituraByte.exe
+C:\Users\Hp\Desktop\Clases\P.O.O\Practricas\EscrituraByte\EscrituraByte\obj\Debug\EscrituraByte.pdb
